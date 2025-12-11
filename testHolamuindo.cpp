@@ -1,9 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main(){
-	cout<<"Probando gauss jordan"<<endl;
-	
-	
+	cout<<"Testeando la rama"<<endl;
 	return 0;
 }
