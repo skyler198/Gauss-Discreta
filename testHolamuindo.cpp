@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
-	cout<<"Hola mundo"<<endl;
+	cout<<"Probando gauss jordan"<<endl;
+	
+	
 	return 0;
 }
